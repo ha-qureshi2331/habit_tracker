@@ -16,10 +16,10 @@ A simple and efficient command-line habit tracking application built with Python
 
 ``` bash
 # Clone the repository
-git clone https://github.com/ha-qureshi2331/habit-tracker.git
+git clone https://github.com/ha-qureshi2331/habit_tracker.git
 
 # Navigate into the project folder
-cd habit-tracker
+cd habit_tracker
 
 #Create and activate a virtual environment
 python3 -m venv venv
@@ -51,6 +51,7 @@ See abstract.pdf for a summary and technical report.
 
 ## License
 MIT
+
 
 
 
